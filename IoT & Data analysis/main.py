@@ -10,8 +10,8 @@ global count
 import schedule
 
 # the Declaration list
-serverip = "185.222.242.249"
-serverport = 5029
+serverip = "185.222.***.***"
+serverport = ****
 token = "qIWnhKmJf6DrfDHmaI2FHyyrU3eLnuMvVw01lP4U4xn99NtUW4s2cr9NOcMEa9kr_gbGEOXpRThAgRTK2zxBEA=="
 org = "test"
 bucket_Skarpt = "skarpt"
